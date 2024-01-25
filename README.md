@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building Java application or framework.
 - 📫 How to reach me? Send email to programmerLMS@163.com.
 
-<img src="https://github-readme-stats.vercel.app/api?username=programmerlms&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
+<img src="https://github-readme-stats.vercel.app/api?username=programmerLMS&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 
 <!---
 ProgrammerLMS/ProgrammerLMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
