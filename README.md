@@ -3,8 +3,14 @@
 - 🌱 I’m currently learning any useful knowledge.
 - 💞️ I’m looking to collaborate on building Java application or framework.
 - 📫 How to reach me? Send email to programmerLMS@163.com.
+<div align="left">
+<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=programmerLMS&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerLMS&amp;layout=compact" height="157px"/>
+</div>
 
+<!---
 <img src="https://github-readme-stats.vercel.app/api?username=programmerLMS&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
+--->
 
 <!---
 ProgrammerLMS/ProgrammerLMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
