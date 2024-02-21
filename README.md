@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgrammerLMS. [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DProgrammerLMS)](https://github.com/ProgrammerLMS)
 - 👀 I’m interested in Software Engineering and Systems.
-- 🌱 I’m currently learning any useful knowledge.
-- 💞️ I’m looking to collaborate on building Java application or framework.
+- 🌱 I’m currently learning advanced Java(such as framework,microservice,middleware) and basic Golang.
+- 💞️ I’m looking to collaborate on building Java or Go application or framework.
 - 📫 How to reach me? Send email to programmerLMS@163.com.
 <div align="left">
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=programmerLMS&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
