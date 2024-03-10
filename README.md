@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 - 👋 I’m @ProgrammerLMS. [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DProgrammerLMS)](https://github.com/ProgrammerLMS)
 - 👀 I’m interested in Software Engineering and Systems.
 - 🌱 I’m currently learning advanced Java(such as framework,microservice,middleware) and basic Golang.
