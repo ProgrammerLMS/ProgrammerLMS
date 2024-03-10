@@ -1,3 +1,4 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 👋 I’m @ProgrammerLMS. [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DProgrammerLMS)](https://github.com/ProgrammerLMS)
 - 👀 I’m interested in Software Engineering and Systems.
@@ -27,6 +28,7 @@
   </tbody>
 </table>
 
+<h3>My Github stats</h3>
 <div align="left">
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=programmerLMS&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerLMS&amp;layout=compact" height="157px"/>
