@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on building Java or Go application or framework.
 - 📫 How to reach me? Send email to programmerLMS@163.com.
 
-<h3>Open source projects</h3>
+<h3>My Open Source Toy Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-<h3>My Github stats</h3>
+<h3>My Github Stats</h3>
 <div align="left">
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=programmerLMS&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerLMS&amp;layout=compact" height="157px"/>
