@@ -33,6 +33,10 @@
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=programmerLMS&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerLMS&amp;layout=compact" height="157px"/>
 </div>
+
+<h3>Visitors</h3>
+![Visitor Count](https://profile-counter.glitch.me/acmenlt/count.svg)
+
 <!---
 <img src="https://github-readme-stats.vercel.app/api?username=programmerLMS&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 --->
